@@ -11,6 +11,6 @@ Result_R* is the program used to run on real robot (legos) thus only result is n
 Each number represents a map.
 
 ## Execute command
-java Simulator MyRobot <file>/<map-name>.png
+java Simulator MyRobot `<file>/<map-name>`.png
 
-java Simulator Result_R* <file>/<map-name>.png
+java Simulator Result_R* `<file>/<map-name>`.png
